@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1696914348,,"wq"
+|2,0,1696915570,,"wq"
+:set number
+|2,0,1696915556,,"set number"
 
 # Search String History (newest to oldest):
 
@@ -26,13 +28,21 @@
 
 # File marks:
 '0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1696914348,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/.gitconfig
-|4,49,1,0,1696912841,"~/.gitconfig"
+|4,48,1,0,1696915570,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1696914348,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.gitconfig
+|4,50,1,0,1696912841,"~/.gitconfig"
 
 # Jumplist (newest first):
 -'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1696915570,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1696914348,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1696912841,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1696912841,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1696912841,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
@@ -41,7 +51,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1696914346	0
+	*	1696915567	0
 	"	1	0
 
 > ~/.gitconfig
